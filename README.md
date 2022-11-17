@@ -1,1 +1,1 @@
-# Compsci-30-Final-Project
+# cs30-major-project
